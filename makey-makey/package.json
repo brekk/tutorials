@@ -1,0 +1,27 @@
+{
+  "name": "makey-makey",
+  "version": "0.0.1",
+  "description": "A brief tutorial on interfacing with a MaKey MaKey microcontroller using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brekk/tutorials"
+  },
+  "keywords": [
+    "makey-makey",
+    "microcontroller",
+    "arduino",
+    "johnny-five",
+    "firmata",
+    "tutorial"
+  ],
+  "author": "Brekk Bockrath",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "~2.1.0",
+    "johnny-five": "~0.7.3"
+  }
+}
